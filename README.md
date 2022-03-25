@@ -12,6 +12,7 @@ Current members and projects:
 | Mustafa   | Benthic mapping? in Egypt
 | Claudia   | Physical variables in PR
 | Carolina  | Seagrass mapping in Venezuela
+| Dan       | Aerosol Layer Height from Sentinel-5 TROPOMI
 ----------------------------------------------------------------------
 
 ## Tasks for next meeting:
