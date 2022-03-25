@@ -1,5 +1,5 @@
 # gee-workgroup
-Google Earth Engine Workgroup [private]
+Google Earth Engine Workgroup
 
 This is intended to get you into GEE by working on your own project code, discussing and debugging.
 
