@@ -22,6 +22,8 @@ For everyone:
 
 <b>Bonus:</b> Get familiar with common types of variables (e.g. ee.Image, ee.ImageCollection, ee.Feature) and ee functions (e.g. print(), Map.addLayer, ee.Filter, etc)
 
+<b>BRING YOUR CODE ON NEXT MEETING SO WE CAN GO THROUGH YOUR PROGESS</b>
+
 ## Resources:
 
 Developer's Guides: https://developers.google.com/earth-engine/guides
