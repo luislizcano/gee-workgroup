@@ -6,13 +6,13 @@ This is intended to get you into GEE by working on your own project code, discus
 ## Projects
 Current members and projects:
 
-| members   | project
-| --------- | -----------------
-| Chelsea   | Coral reef mapping in FL Keys
-| Mustafa   | Benthic mapping? in Egypt
-| Claudia   | Physical variables in PR
-| Carolina  | Seagrass mapping in Venezuela
-| Dan       | Aerosol Layer Height from Sentinel-5 TROPOMI
+| members   | project                                       | suggested EE datasets |
+| --------- | --------------------------------------------- | ------------------ |
+| Chelsea   | Coral reef mapping in FL Keys                 | [Sentinel-2](https://developers.google.com/earth-engine/datasets/catalog/sentinel-2), [Landsat](https://developers.google.com/earth-engine/datasets/catalog/landsat)
+| Mustafa   | Benthic mapping? in Egypt                     | [Sentinel-2](https://developers.google.com/earth-engine/datasets/catalog/sentinel-2), [Landsat](https://developers.google.com/earth-engine/datasets/catalog/landsat)
+| Claudia   | Physical variables in PR                      | [Temperature](https://developers.google.com/earth-engine/datasets/tags/temperature), [Weather](https://developers.google.com/earth-engine/datasets/tags/weather), [Climate](https://developers.google.com/earth-engine/datasets/tags/climate)
+| Carolina  | Seagrass mapping in Venezuela                 | [Sentinel-2](https://developers.google.com/earth-engine/datasets/catalog/sentinel-2), [Landsat](https://developers.google.com/earth-engine/datasets/catalog/landsat)
+| Dan       | Aerosol Layer Height from Sentinel-5 TROPOMI  | [Sentinel-5p](https://developers.google.com/earth-engine/datasets/catalog/sentinel-5p)
 ----------------------------------------------------------------------
 
 ## Tasks for next meeting:
