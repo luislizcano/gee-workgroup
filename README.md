@@ -13,6 +13,7 @@ Current members and projects:
 | Claudia   | Physical variables in PR                      | [Temperature](https://developers.google.com/earth-engine/datasets/tags/temperature), [Weather](https://developers.google.com/earth-engine/datasets/tags/weather), [Climate](https://developers.google.com/earth-engine/datasets/tags/climate)
 | Carolina  | Seagrass mapping in Venezuela                 | [Sentinel-2](https://developers.google.com/earth-engine/datasets/catalog/sentinel-2), [Landsat](https://developers.google.com/earth-engine/datasets/catalog/landsat)
 | Dan       | Aerosol Layer Height from Sentinel-5 TROPOMI  | [Sentinel-5p](https://developers.google.com/earth-engine/datasets/catalog/sentinel-5p)
+| Digna     | ?                                             | 
 ----------------------------------------------------------------------
 
 ## Tasks for next meeting:
