@@ -3,6 +3,8 @@ Google Earth Engine Workgroup
 
 This is intended to get you into GEE by working on your own project code, discussing and debugging.
 
+Weekly in-person meetings in lab every Friday at 10 am. 
+
 ## Projects
 Current members and projects:
 
