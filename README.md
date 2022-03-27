@@ -16,7 +16,7 @@ Current members and projects:
 | Carolina  | Seagrass mapping in Venezuela                 | [Sentinel-2](https://developers.google.com/earth-engine/datasets/catalog/sentinel-2), [Landsat](https://developers.google.com/earth-engine/datasets/catalog/landsat)
 | Dan       | Aerosol Layer Height from Sentinel-5 TROPOMI  | [Sentinel-5p](https://developers.google.com/earth-engine/datasets/catalog/sentinel-5p)
 | Digna     | ?                                             | 
-| Tylar     | Mangrove SDM from 3d wetlands WV + LiDaR      | IMaRS-private WV multispectral + public 3d wetlands LiDaR
+| Tylar     | Mangrove SDM from 3d wetlands data      | WV multispectral + 3d wetlands LiDaR
 ----------------------------------------------------------------------
 
 ## Tasks for next meeting:
