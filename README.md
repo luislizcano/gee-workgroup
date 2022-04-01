@@ -27,7 +27,7 @@ Current members and projects:
 2. Alternatively, if you feel lost and don't know where to start you can work on: how to create a mosaic, get mean values, write a function, mask lands or clouds, etc...
 3. Check the google doc posted above and revisit the codes we worked with in last session.
 
-I'd like you to bring specific questions and some code that we can work with.
+I'd like you to bring specific questions and some code that we can work with. It is dificult for me to cover topics thal all can follow if I do not know what you really need to learn, remember we have beginners and others already working with on GEE.
 
 ## Resources:
 ### Learning:
