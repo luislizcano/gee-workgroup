@@ -33,12 +33,11 @@ For everyone:
 <b>BRING YOUR CODE ON NEXT MEETING SO WE CAN GO THROUGH YOUR PROGESS</b>
 
 ## Resources:
-
-Developer's Guides: https://developers.google.com/earth-engine/guides
-
-Developer's Q&A: https://gis.stackexchange.com/questions/tagged/google-earth-engine
-
-GEARS - Geospatial Ecology and Remote Sensing lab Tutorials: https://www.geospatialecology.com/intro_rs_lab1/
-
-Seagrass classification: https://github.com/luislizcano/ee_seagrass_classification
-
+### Learning:
+* Developer's Guides: https://developers.google.com/earth-engine/guides
+* Developer's Q&A: https://gis.stackexchange.com/questions/tagged/google-earth-engine
+* GEARS - Geospatial Ecology and Remote Sensing lab Tutorials: https://www.geospatialecology.com/intro_rs_lab1/
+* Seagrass classification: https://github.com/luislizcano/ee_seagrass_classification
+* Awesome GEE resources: https://awesome.geemap.org/
+### Datasets
+* Aweseome GEE Community datasets: https://samapriya.github.io/awesome-gee-community-datasets/
