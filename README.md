@@ -23,14 +23,11 @@ Current members and projects:
 ----------------------------------------------------------------------
 
 ## Tasks for next meeting:
-For everyone:
-1. Identify the type of dataset/imagery needed
-2. Try to import dataset and filter by study area and time
-3. Add layers to map
+1. Keep working with the basics, start your own code, check the resources posted below, and bring your questions.
+2. Alternatively, if you feel lost and don't know where to start you can work on: how to create a mosaic, get mean values, write a function, mask lands or clouds, etc...
+3. Check the google doc posted above and revisit the codes we worked with in last session.
 
-<b>Bonus:</b> Get familiar with common types of variables (e.g. ee.Image, ee.ImageCollection, ee.Feature) and ee functions (e.g. print(), Map.addLayer, ee.Filter, etc)
-
-<b>BRING YOUR CODE ON NEXT MEETING SO WE CAN GO THROUGH YOUR PROGESS</b>
+I'd like you to bring specific questions and some code that we can work with.
 
 ## Resources:
 ### Learning:
