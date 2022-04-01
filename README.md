@@ -5,6 +5,9 @@ This is intended to get you into GEE by working on your own project code, discus
 
 Weekly in-person meetings in lab every Friday at 10 am. 
 
+## Log sheet
+https://docs.google.com/document/d/1T4EmXEbIq7zdtkDkuvxX7cGyuLDucQ6Pqt1-smMVhmc/edit?usp=sharing
+
 ## Projects
 Current members and projects:
 
