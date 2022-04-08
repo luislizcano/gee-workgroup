@@ -15,7 +15,7 @@ Current members and projects:
 
 | members   | project                                       | suggested EE datasets |
 | --------- | --------------------------------------------- | ------------------ |
-| Chelsea   | Coral reef mapping in FL Keys                 | [Sentinel-2](https://developers.google.com/earth-engine/datasets/catalog/sentinel-2), [Landsat](https://developers.google.com/earth-engine/datasets/catalog/landsat)
+| Chelsea   | Coral reef mapping in FL Keys                 | [Sentinel-2](https://developers.google.com/earth-engine/datasets/catalog/sentinel-2), [Landsat](https://developers.google.com/earth-engine/datasets/catalog/landsat), [CREMP] 
 | Mostafa   | Benthic mapping? in Egypt                     | [Sentinel-2](https://developers.google.com/earth-engine/datasets/catalog/sentinel-2), [Landsat](https://developers.google.com/earth-engine/datasets/catalog/landsat)
 | Claudia   | Physical variables in PR                      | [Temperature](https://developers.google.com/earth-engine/datasets/tags/temperature), [Weather](https://developers.google.com/earth-engine/datasets/tags/weather), [Climate](https://developers.google.com/earth-engine/datasets/tags/climate)
 | Carolina  | Seagrass mapping in Venezuela                 | [Sentinel-2](https://developers.google.com/earth-engine/datasets/catalog/sentinel-2), [Landsat](https://developers.google.com/earth-engine/datasets/catalog/landsat)
