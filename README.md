@@ -39,6 +39,7 @@ I'd like you to bring specific questions and some code that we can work with. It
 * GEARS - Geospatial Ecology and Remote Sensing lab Tutorials: https://www.geospatialecology.com/intro_rs_lab1/
 * Seagrass classification: https://github.com/luislizcano/ee_seagrass_classification
 * Awesome GEE resources: https://awesome.geemap.org/
+* Geohackweek tutorials: https://mbonnema.github.io/GoogleEarthEngine/
 ### Datasets
 * Aweseome GEE Community datasets: https://samapriya.github.io/awesome-gee-community-datasets/
 ### GEE Apps
