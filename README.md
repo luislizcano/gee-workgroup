@@ -5,6 +5,10 @@ This is intended to get you into GEE by working on your own project code, discus
 
 Weekly in-person meetings in lab every Friday at 10 am. 
 
+## NOTICE
+* Meetings are paused. 
+* Please use the Discussion section for asking questions, so we can all participate and solve common issues.
+
 ## Log
 Google doc with scripts: https://docs.google.com/document/d/1T4EmXEbIq7zdtkDkuvxX7cGyuLDucQ6Pqt1-smMVhmc/edit?usp=sharing
 
@@ -24,13 +28,6 @@ Current members and projects:
 | Digna     | ?                                             | 
 | Tylar     | Mangrove SDM from 3d wetlands data      | WV multispectral + 3d wetlands LiDaR
 ----------------------------------------------------------------------
-
-## Tasks for next meeting:
-1. Keep working with the basics, start your own code, check the resources posted below, and bring your questions.
-2. Alternatively, if you feel lost and don't know where to start you can work on: how to create a mosaic, get mean values, write a function, mask lands or clouds, etc...
-3. Check the google doc posted above and revisit the codes we worked with in last session.
-
-I'd like you to bring specific questions and some code that we can work with. It is dificult for me to cover topics thal all can follow if I do not know what you really need to learn, remember we have beginners and others already working with on GEE.
 
 ## Resources:
 ### Learning:
