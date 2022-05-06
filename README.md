@@ -7,7 +7,8 @@ Weekly in-person meetings in lab every Friday at 10 am [PAUSED].
 
 ## NOTICE [05/06/2022]
 * Meetings are paused now.
-* Please use the Discussion section for asking questions, so we can all participate to solve common issues.
+* Please use the Discussion section for asking questions, so we all can participate to solve common issues.
+* Keep practicing and be friend with coding.
 
 ## Log
 Google doc with scripts: https://docs.google.com/document/d/1T4EmXEbIq7zdtkDkuvxX7cGyuLDucQ6Pqt1-smMVhmc/edit?usp=sharing
