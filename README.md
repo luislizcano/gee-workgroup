@@ -3,11 +3,11 @@ Google Earth Engine Workgroup
 
 This is intended to get you into GEE by working on your own project code, discussing and debugging.
 
-Weekly in-person meetings in lab every Friday at 10 am. 
+Weekly in-person meetings in lab every Friday at 10 am [PAUSED].
 
-## NOTICE
-* Meetings are paused. 
-* Please use the Discussion section for asking questions, so we can all participate and solve common issues.
+## NOTICE [05/06/2022]
+* Meetings are paused now.
+* Please use the Discussion section for asking questions, so we can all participate to solve common issues.
 
 ## Log
 Google doc with scripts: https://docs.google.com/document/d/1T4EmXEbIq7zdtkDkuvxX7cGyuLDucQ6Pqt1-smMVhmc/edit?usp=sharing
