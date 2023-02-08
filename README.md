@@ -27,5 +27,6 @@ Google Earth Engine Workgroup
 ### Datasets
 * Aweseome GEE Community datasets: https://samapriya.github.io/awesome-gee-community-datasets/
 ### GEE Apps
+* GEE Apps: https://www.earthengine.app/
 * Awesome GEE Apps: https://github.com/philippgaertner/awesome-earth-engine-apps
-.
+
