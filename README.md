@@ -20,6 +20,7 @@ Google Earth Engine Workgroup
 ### Learning:
 * Developer's Guides: https://developers.google.com/earth-engine/guides
 * Developer's Q&A: https://gis.stackexchange.com/questions/tagged/google-earth-engine
+* GEE Book with a lot of chapters and videos: https://www.eefabook.org/
 * GEARS - Geospatial Ecology and Remote Sensing lab Tutorials: https://www.geospatialecology.com/intro_rs_lab1/
 * Seagrass classification: https://github.com/luislizcano/ee_seagrass_classification
 * Awesome GEE resources: https://awesome.geemap.org/
