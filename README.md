@@ -14,6 +14,7 @@ Google Earth Engine Workgroup
 | 3.	Indices.   |
 | 4.	Supervised classifications (nothing new to teach here, we can revisit the codes from previous sessions).  |
 | 5.	Extraction of time series data.     |
+| 6.  Coastline extraction. |
 -------------
 
 ## Resources:
