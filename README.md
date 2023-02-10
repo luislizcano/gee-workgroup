@@ -9,7 +9,7 @@ Google Earth Engine Workgroup
 
 | Topics   | 
 | --------- | 
-| 1.	Quick review of GEE, elements, characteristics, datasets, etc. (you all should know this already) |
+| 1.	[Quick review of GEE, elements, characteristics, datasets, etc. (you all should know this already)](https://code.earthengine.google.com/8a543d7583e6e072f769bcb48e3a5d04) |
 | 2.	Masking procedures.   |
 | 3.	Indices.   |
 | 4.	Supervised classifications (nothing new to teach here, we can revisit the codes from previous sessions).  |
