@@ -11,7 +11,7 @@ Scripts will be accessible before each meeting for review.
 | Topics                                                                        | Schedule |
 | ----------------------------------------------------------------------------- | -------- |
 | 1.	[Quick review of GEE, elements, characteristics, datasets, etc. (you all should know this already)](https://code.earthengine.google.com/8a543d7583e6e072f769bcb48e3a5d04)  |  Feb 17th  |
-| 2.	Masking procedures                                                       |  TBD |
+| 2.	[Masking procedures](https://code.earthengine.google.com/20e2f4f7b8c1355876ffa5b4c17254cb)                                                       |  Feb 17th - If we have time |
 | 3.	Indices                                                                  |  TBD |
 | 4.	Supervised classifications (nothing new to teach here, we can revisit the codes from previous sessions)  |  TBD |
 | 5.	Extraction of time series data                                           |  TBD |
