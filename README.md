@@ -10,7 +10,7 @@ Scripts will be accessible before each meeting for review.
 
 | Topics                                                                        | Schedule |
 | ----------------------------------------------------------------------------- | -------- |
-| 1.	[Quick review of GEE, elements, characteristics, datasets, etc. (you all should know this already)](https://code.earthengine.google.com/d37c5386f755171a9721080bc375e264)  |  Feb 17th - 10 am - 12 pm |
+| 1.	[Quick review of GEE, elements, characteristics, datasets, etc. (you all should know this already)](https://code.earthengine.google.com/d37c5386f755171a9721080bc375e264)  |  Feb 17th [10 am - 12 pm] |
 | 2.	[Masking procedures](https://code.earthengine.google.com/20e2f4f7b8c1355876ffa5b4c17254cb)                                                       |  Feb 17th - If we have time |
 | 3.	Cloud masking                                                            |  TBD |
 | 4.	Indices & Math operations                                                |  TBD |
