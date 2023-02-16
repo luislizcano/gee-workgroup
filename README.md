@@ -1,6 +1,7 @@
 # gee-workgroup
 Google Earth Engine Workgroup
 
+Place: "GEE Workgroup" in Teams
 
 ## Log
 [From our first meetings] Google doc with scripts: https://docs.google.com/document/d/1T4EmXEbIq7zdtkDkuvxX7cGyuLDucQ6Pqt1-smMVhmc/edit?usp=sharing
