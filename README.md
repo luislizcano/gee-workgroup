@@ -13,8 +13,8 @@ Scripts will be accessible before each meeting for review.
 | ----------------------------------------------------------------------------- | -------- |
 | 1.	[Quick review of GEE, elements, characteristics, datasets, etc. (you all should know this already)](https://code.earthengine.google.com/d37c5386f755171a9721080bc375e264)  |  Feb 17th: 10am - 12pm |
 | 2.	[Masking procedures](https://code.earthengine.google.com/20e2f4f7b8c1355876ffa5b4c17254cb)                                                       |  Feb 17th - If we have time |
-| 3.	Cloud masking                                                            |  Feb 24 |
-| 4.	Indices & Math operations                                                |  Feb 24 |
+| 3.	[Cloud masking](https://code.earthengine.google.com/aecd5b29ec8df00d0c80df3259189685)                                                            |  Feb 24 |
+| 4.	[Indices & Math operations](https://code.earthengine.google.com/aa42e79c6d6636c0a39af15aa37f341b)                                                |  Feb 24 |
 | 6.	Reducers: stats & time series                                            |  TBD |
 | 5.	Supervised classifications (nothing new to teach here, we can revisit the codes from previous sessions)  |  TBD |
 | 7.  Coastline extraction                                                     |  TBD |
