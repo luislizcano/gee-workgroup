@@ -20,9 +20,10 @@ Scripts will be accessible before each meeting for review.
 | 3.	[Cloud masking](https://code.earthengine.google.com/aecd5b29ec8df00d0c80df3259189685)                                                            |  Feb 24 |
 | 4.	[Indices & Math operations](https://code.earthengine.google.com/61940d20a0ce51315d0069987f16eabc)                                                |  Feb 24 |
 | 5.	Reducers: stats & time series                                            |  TBD |
-| 6.  Coastline extraction                                                     |  TBD |
-| 7.	Supervised classifications                                               |  TBD |
-| 8.	Benthic habitat mapping                                                  |  TBD |
+| 6.	Supervised classifications                                               |  TBD |
+| 7.	Benthic habitat mapping                                                  |  TBD |
+| 8.  Coastline extraction                                                     |  TBD |
+| 9.  Bathymetry?                                                              |  TBD |
 
 -------------
 
