@@ -19,7 +19,7 @@ Scripts will be accessible before each meeting for review.
 | 2.	[Masking procedures](https://code.earthengine.google.com/20e2f4f7b8c1355876ffa5b4c17254cb)                                                       |  Feb 17th - If we have time |
 | 3.	[Cloud masking](https://code.earthengine.google.com/aecd5b29ec8df00d0c80df3259189685)                                                            |  Feb 24 |
 | 4.	[Indices & Math operations](https://code.earthengine.google.com/61940d20a0ce51315d0069987f16eabc)                                                |  Feb 24 |
-| 5.	Reducers: stats & time series                                            |  TBD |
+| 5.	[Reducers: stats & time series](https://code.earthengine.google.com/a2cc961ce6c78e4810c808f327da75ef)                                            |  Mar 3 |
 | 6.	Supervised classifications                                               |  TBD |
 | 7.	Benthic habitat mapping                                                  |  TBD |
 | 8.  Coastline extraction                                                     |  TBD |
