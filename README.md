@@ -23,7 +23,6 @@ Scripts will be accessible before each meeting for review.
 | 6.	[Supervised classifications](https://code.earthengine.google.com/3bfb6058b8fa7764679a3ed1a437ece9)                                               |  Mar 3 |
 | 7.	Benthic habitat mapping                                                  |  TBD |
 | 8.  Coastline extraction                                                     |  TBD |
-| 9.  Bathymetry?                                                              |  TBD |
 
 -------------
 
