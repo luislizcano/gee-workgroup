@@ -21,8 +21,8 @@ Scripts will be accessible before each meeting for review.
 | 4.	[Indices & Math operations](https://code.earthengine.google.com/61940d20a0ce51315d0069987f16eabc)                                                |  Feb 24 |
 | 5.	[Reducers: stats & time series](https://code.earthengine.google.com/a2cc961ce6c78e4810c808f327da75ef)                                            |  Mar 3 |
 | 6.	[Supervised classifications](https://code.earthengine.google.com/3bfb6058b8fa7764679a3ed1a437ece9)                                               |  Mar 3 |
-| 7.	Benthic habitat mapping                                                  |  TBD |
-| 8.  Coastline extraction                                                     |  TBD |
+| 7.	Benthic habitat mapping                                                  |  Mar 10 |
+| 8.  Coastline extraction                                                     |  Mar 10 |
 
 -------------
 
